@@ -1,2 +1,2 @@
-# health-data-analysis
-A project analyzing health data using Python and Pandas
+# health-companies-analysis
+A project analyzing health companies using Python and Pandas
